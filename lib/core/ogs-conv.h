@@ -29,6 +29,7 @@ extern "C" {
 #endif
 
 int ogs_ascii_to_hex(char *in, int in_len, void *out, int out_len);
+int ogs_ascii_const_to_hex(const char *in, int in_len, void *out, int out_len);
 static ogs_inline void *ogs_hex_from_string(
         const char *str, void *out, int out_len)
 {

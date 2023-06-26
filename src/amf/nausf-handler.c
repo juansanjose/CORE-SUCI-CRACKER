@@ -98,13 +98,37 @@ int amf_nausf_auth_handle_authenticate(
         ogs_strdup(LinksValueSchemeValue->href);
     ogs_assert(amf_ue->confirmation_url_for_5g_aka);
 
-    ogs_ascii_to_hex(AV5G_AKA->rand, strlen(AV5G_AKA->rand),
-        amf_ue->rand, sizeof(amf_ue->rand));
-    ogs_ascii_to_hex(AV5G_AKA->hxres_star, strlen(AV5G_AKA->hxres_star),
-        amf_ue->hxres_star, sizeof(amf_ue->hxres_star));
-    ogs_ascii_to_hex(AV5G_AKA->autn, strlen(AV5G_AKA->autn),
-        amf_ue->autn, sizeof(amf_ue->autn));
+// CAMBIO DE CÓDIGO FUENTE
+       
+    //   AV5G_AKA->rand = malloc(strlen("9e149bab3085f44228093c803a194a16") + 1);
+    //   strcpy(AV5G_AKA->rand, "9e149bab3085f44228093c803a194a16");
+    //   AV5G_AKA->autn = malloc(strlen("98e87270352280008e04762e3c826cef") + 1);
+    //   strcpy(AV5G_AKA->autn, "98e87270352280008e04762e3c826cef");
+      const  char* rand_f = "d6aaff9563b6d9255ef877e22d815404";
+      const char* autn_f = "56102dab279980009f46a47e06e570d5";
+    //  AV5G_AKA->rand=const "1A 2B 3C";
+    //  AV5G_AKA->autn="1A 2B 3C";
+    //     /////
 
+    ogs_ascii_const_to_hex(rand_f, strlen(rand_f),
+         amf_ue->rand, sizeof(amf_ue->rand));
+    ogs_ascii_to_hex(AV5G_AKA->hxres_star, strlen(AV5G_AKA->hxres_star),
+         amf_ue->hxres_star, sizeof(amf_ue->hxres_star));
+    ogs_ascii_const_to_hex(autn_f, strlen(autn_f),
+          amf_ue->autn, sizeof(amf_ue->autn));
+
+
+
+
+    
+    //   ogs_ascii_to_hex(AV5G_AKA->rand, strlen(AV5G_AKA->rand),
+    //      amf_ue->rand, sizeof(amf_ue->rand));
+    //  ogs_ascii_to_hex(AV5G_AKA->hxres_star, strlen(AV5G_AKA->hxres_star),
+    //      amf_ue->hxres_star, sizeof(amf_ue->hxres_star));
+    //   ogs_ascii_to_hex(AV5G_AKA->autn, strlen(AV5G_AKA->autn),
+    //       amf_ue->autn, sizeof(amf_ue->autn));
+    
+ 
     if (amf_ue->nas.amf.ksi < (OGS_NAS_KSI_NO_KEY_IS_AVAILABLE - 1))
         amf_ue->nas.amf.ksi++;
     else

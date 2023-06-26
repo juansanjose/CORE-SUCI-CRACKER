@@ -1,0 +1,645 @@
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/15 21:53:46.775: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/15 21:53:46.775: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/15 21:53:46.777: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/15 21:53:46.833: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/15 21:53:46.835: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/15 22:11:52.949: [app] INFO: SIGHUP received (../src/main.c:58)
+06/15 22:11:52.957: [app] INFO: SIGHUP received (../src/main.c:58)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/15 22:14:07.897: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/15 22:14:07.897: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/15 22:14:07.901: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/15 22:14:07.957: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/15 22:14:07.960: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/15 22:15:37.887: [app] INFO: Signal-NUM[28] received (Window changed) (../src/main.c:63)
+06/15 22:24:29.470: [app] INFO: SIGINT received (../src/main.c:53)
+06/15 22:24:29.471: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/15 22:24:29.603: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/15 22:24:45.434: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/15 22:24:45.434: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/15 22:24:45.436: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/15 22:24:45.481: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/15 22:24:45.483: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/15 22:31:09.264: [app] INFO: SIGINT received (../src/main.c:53)
+06/15 22:31:09.264: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/15 22:31:09.379: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/16 00:45:56.619: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/16 00:45:56.619: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/16 00:45:56.620: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/16 00:45:56.656: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/16 00:45:56.681: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/16 01:01:31.567: [app] INFO: SIGINT received (../src/main.c:53)
+06/16 01:01:31.567: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/16 01:01:31.691: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/16 01:01:42.604: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/16 01:01:42.604: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/16 01:01:42.606: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/16 01:01:42.667: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/16 01:01:42.668: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/16 01:04:35.331: [app] INFO: SIGINT received (../src/main.c:53)
+06/16 01:04:35.331: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/16 01:04:35.457: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/16 01:04:44.053: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/16 01:04:44.053: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/16 01:04:44.054: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/16 01:04:44.127: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/16 01:04:44.129: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/16 01:07:25.284: [app] INFO: SIGINT received (../src/main.c:53)
+06/16 01:07:25.284: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/16 01:07:25.401: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/16 03:05:02.059: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/16 03:05:02.059: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/16 03:05:02.067: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/16 03:05:02.105: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/16 03:05:02.125: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/16 03:40:28.452: [app] INFO: SIGTERM received (../src/main.c:53)
+06/16 03:40:28.454: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/16 03:40:28.666: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 14:30:32.980: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 14:30:32.980: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 14:30:32.981: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 14:30:33.032: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 14:30:33.034: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 14:44:15.602: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 14:44:15.602: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 14:44:15.753: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 21:46:36.814: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 21:46:36.815: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 21:46:36.819: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 21:46:36.894: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 21:46:47.915: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/17 21:48:27.688: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 21:56:29.198: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 21:56:29.199: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 21:56:29.336: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 21:56:50.998: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 21:56:50.998: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 21:56:50.999: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 21:56:51.079: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 21:56:51.081: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 22:00:41.107: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 22:00:41.108: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:00:41.226: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:01:04.531: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:01:04.531: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:01:04.533: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:01:04.581: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:01:12.347: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/17 22:02:53.010: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 22:02:53.010: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:02:53.137: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:07:42.139: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:07:42.139: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:07:42.140: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:07:42.193: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:07:42.196: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 22:08:44.563: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 22:08:44.563: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:08:44.694: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:09:45.242: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:09:45.242: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:09:45.246: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:09:45.293: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:09:45.296: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 22:13:49.250: [app] INFO: SIGINT received (../src/main.c:53)
+06/17 22:13:49.250: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:13:49.372: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:14:01.804: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:14:01.804: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:14:01.807: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:14:01.853: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:14:01.855: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 22:32:44.501: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 22:32:44.505: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:32:44.672: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:34:20.009: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:34:20.009: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:34:20.013: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:34:20.212: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:34:20.215: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 22:36:29.254: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 22:36:29.258: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 22:36:29.440: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 22:58:03.305: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 22:58:03.305: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 22:58:03.307: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 22:58:03.379: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 22:58:03.381: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:05:40.455: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:05:40.456: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:05:40.602: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:08:38.157: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:08:38.157: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:08:38.160: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:08:38.199: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:08:38.201: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:09:51.306: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:09:51.306: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:09:51.434: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:10:09.303: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:10:09.303: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:10:09.306: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:10:09.373: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:10:09.375: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:11:20.417: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:11:20.418: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:11:20.540: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:13:49.383: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:13:49.383: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:13:49.386: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:13:49.448: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:13:49.451: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:15:14.420: [app] INFO: Signal-NUM[28] received (Window changed) (../src/main.c:63)
+06/17 23:16:58.146: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:16:58.146: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:16:58.278: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:20:23.852: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:20:23.852: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:20:23.853: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:20:23.898: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:20:23.900: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:21:33.753: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:21:33.753: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:21:33.919: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:22:35.121: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:22:35.122: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:22:35.123: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:22:35.199: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:22:35.200: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:24:35.403: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:24:35.405: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:24:35.549: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:28:50.345: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:28:50.345: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:28:50.347: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:28:50.410: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:28:50.414: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/17 23:40:03.480: [app] INFO: SIGINT received (../src/main.c:53)
+06/17 23:40:03.480: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:40:03.623: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:40:14.949: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:40:14.949: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:40:14.951: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:40:15.017: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:40:15.019: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#13): (../lib/diameter/common/logger.c:108)
+06/17 23:41:24.056: [app] INFO: SIGTERM received (../src/main.c:53)
+06/17 23:41:24.059: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/17 23:41:24.214: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/17 23:49:59.072: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/17 23:49:59.072: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/17 23:49:59.074: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/17 23:49:59.162: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/17 23:49:59.164: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:25:43.290: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:25:43.294: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:25:43.433: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:26:35.263: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:26:35.263: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:26:35.267: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:26:35.349: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:26:35.351: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:27:55.774: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:27:55.774: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:27:55.950: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:30:11.753: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:30:11.753: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:30:11.756: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:30:11.798: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:30:11.801: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#13): (../lib/diameter/common/logger.c:108)
+06/18 00:30:58.365: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:30:58.366: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:30:58.489: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:31:34.360: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:31:34.360: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:31:34.362: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:31:34.418: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:31:34.420: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:34:53.844: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:34:53.846: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:34:53.978: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:40:11.487: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:40:11.487: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:40:11.492: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:40:11.561: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:40:17.904: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/18 00:41:58.868: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:41:58.871: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:41:59.000: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:42:24.786: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:42:24.787: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:42:24.789: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:42:24.858: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:42:24.860: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:42:38.924: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:42:38.924: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:42:39.055: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:42:49.597: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:42:49.597: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:42:49.599: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:42:49.637: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:42:56.156: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/18 00:50:38.994: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:50:38.995: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:50:39.134: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:51:17.144: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:51:17.144: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:51:17.147: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:51:17.208: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:51:17.209: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:54:20.166: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:54:20.168: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:54:20.309: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:55:58.912: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:55:58.912: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:55:58.915: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:55:58.996: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:55:58.997: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:56:17.294: [app] INFO: SIGINT received (../src/main.c:53)
+06/18 00:56:17.294: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:56:17.405: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 00:56:20.623: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 00:56:20.623: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 00:56:20.626: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 00:56:20.673: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 00:56:20.675: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 00:57:47.087: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 00:57:47.088: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 00:57:47.232: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 14:27:48.641: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 14:27:48.641: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 14:27:48.642: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 14:27:48.682: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 14:27:48.684: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 14:28:11.095: [app] INFO: Signal-NUM[28] received (Window changed) (../src/main.c:63)
+06/18 14:28:35.248: [app] INFO: Signal-NUM[28] received (Window changed) (../src/main.c:63)
+06/18 14:32:56.855: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 14:32:56.856: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 14:32:56.980: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 15:00:48.836: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 15:00:48.836: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 15:00:48.838: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 15:00:48.906: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 15:00:48.907: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 15:07:31.874: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 15:07:31.877: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 15:07:32.026: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 15:35:38.644: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 15:35:38.644: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 15:35:38.646: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 15:35:38.704: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 15:35:38.720: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 15:53:24.416: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 15:53:24.418: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 15:53:24.805: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 15:57:18.443: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 15:57:18.443: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 15:57:18.450: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 15:57:18.490: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 15:57:18.493: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 15:58:34.759: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 15:58:34.760: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 15:58:34.889: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 16:05:43.775: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 16:05:43.775: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 16:05:43.782: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 16:05:43.842: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 16:05:43.844: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 16:06:28.093: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 16:06:28.093: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 16:06:28.232: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 16:57:34.426: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 16:57:34.426: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 16:57:34.430: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 16:57:34.497: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 16:57:34.502: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 17:00:19.291: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 17:00:19.292: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 17:00:19.447: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 17:01:48.144: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 17:01:48.144: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 17:01:48.149: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 17:01:48.261: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 17:01:48.263: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 17:22:21.512: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 17:22:21.514: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 17:22:21.669: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 17:22:38.788: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 17:22:38.788: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 17:22:38.796: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 17:22:38.895: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 17:22:38.897: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 17:24:08.088: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 17:24:08.090: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 17:24:08.256: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 17:29:12.223: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 17:29:12.223: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 17:29:12.225: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 17:29:12.259: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 17:29:12.265: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 17:47:09.812: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/18 17:47:13.684: [app] INFO: SIGINT received (../src/main.c:53)
+06/18 17:47:13.684: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 17:47:13.813: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 17:47:14.869: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 17:47:14.869: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 17:47:14.871: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 17:47:14.916: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 17:47:14.917: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 18:05:56.499: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 18:05:56.502: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 18:05:56.645: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 18:06:03.263: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 18:06:03.264: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 18:06:03.273: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 18:06:03.331: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 18:06:09.128: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#9): (../lib/diameter/common/logger.c:108)
+06/18 18:07:14.625: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 18:07:14.627: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 18:07:14.752: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 18:25:00.895: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 18:25:00.895: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 18:25:00.898: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 18:25:00.956: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 18:25:00.958: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 18:40:06.027: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 18:40:06.029: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 18:40:06.172: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 21:37:40.726: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 21:37:40.726: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 21:37:40.728: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 21:37:40.796: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 21:37:40.798: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 21:40:16.254: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 21:40:16.257: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 21:40:16.408: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 21:40:32.009: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 21:40:32.009: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 21:40:32.013: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 21:40:32.062: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 21:40:32.064: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 21:41:53.105: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 21:41:53.107: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 21:41:53.232: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 22:39:37.332: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 22:39:37.332: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 22:39:37.334: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 22:39:37.374: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 22:39:37.376: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 22:43:57.430: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 22:43:57.433: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 22:43:57.597: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 23:07:37.286: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 23:07:37.287: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 23:07:37.288: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 23:07:37.372: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 23:07:37.374: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 23:10:04.736: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 23:10:04.737: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 23:10:04.894: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 23:12:04.775: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 23:12:04.775: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 23:12:04.778: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 23:12:04.844: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 23:12:04.847: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 23:13:34.490: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 23:13:34.491: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 23:13:34.613: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 23:15:30.307: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 23:15:30.308: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 23:15:30.311: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 23:15:30.378: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 23:15:30.380: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 23:17:05.713: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 23:17:05.715: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 23:17:05.843: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 23:17:11.858: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 23:17:11.858: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 23:17:11.863: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 23:17:11.922: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 23:17:11.924: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 23:18:16.609: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 23:18:16.610: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 23:18:16.729: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/18 23:20:34.703: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/18 23:20:34.703: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/18 23:20:34.705: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/18 23:20:34.844: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/18 23:20:34.845: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/18 23:21:14.648: [app] INFO: SIGTERM received (../src/main.c:53)
+06/18 23:21:14.648: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/18 23:21:14.766: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/19 00:12:17.871: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/19 00:12:17.871: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/19 00:12:17.874: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/19 00:12:17.958: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/19 00:12:23.284: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#12): (../lib/diameter/common/logger.c:108)
+06/19 00:31:42.959: [app] INFO: SIGTERM received (../src/main.c:53)
+06/19 00:31:42.961: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/19 00:31:43.119: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/19 00:32:05.756: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/19 00:32:05.756: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/19 00:32:05.759: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/19 00:32:05.811: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/19 00:32:05.813: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/19 02:21:39.084: [app] INFO: SIGINT received (../src/main.c:53)
+06/19 02:21:39.088: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/19 02:21:39.477: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/19 02:37:08.282: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/19 02:37:08.282: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/19 02:37:08.296: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/19 02:37:08.528: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/19 02:37:08.531: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/19 02:39:46.512: [app] INFO: SIGTERM received (../src/main.c:53)
+06/19 02:39:46.512: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/19 02:39:46.639: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/19 02:41:14.602: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/19 02:41:14.602: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/19 02:41:14.614: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/19 02:41:14.814: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/19 02:41:14.834: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#14): (../lib/diameter/common/logger.c:108)
+06/19 02:47:51.906: [app] INFO: SIGTERM received (../src/main.c:53)
+06/19 02:47:51.926: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/19 02:47:52.100: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f
+
+06/21 16:49:46.228: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 16:49:46.228: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 16:49:46.232: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 16:49:46.279: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 16:49:46.331: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#11): (../lib/diameter/common/logger.c:108)
+06/21 17:36:41.075: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 17:36:41.080: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 17:36:41.367: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 18:08:14.531: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 18:08:14.531: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 18:08:14.533: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 18:08:14.619: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 18:08:14.687: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#14): (../lib/diameter/common/logger.c:108)
+06/21 18:13:37.597: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 18:13:37.600: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 18:13:37.898: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 18:14:23.307: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 18:14:23.307: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 18:14:23.323: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 18:14:23.535: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 18:14:23.539: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#15): (../lib/diameter/common/logger.c:108)
+06/21 18:16:01.677: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 18:16:01.685: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 18:16:01.834: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 18:16:14.175: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 18:16:14.175: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 18:16:14.182: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 18:16:14.315: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 18:16:14.387: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#12): (../lib/diameter/common/logger.c:108)
+06/21 18:16:50.576: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 18:16:50.577: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 18:16:50.711: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 18:17:00.166: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 18:17:00.166: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 18:17:00.168: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 18:17:00.293: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 18:17:00.366: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#11): (../lib/diameter/common/logger.c:108)
+06/21 18:17:56.452: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 18:17:56.458: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 18:17:56.592: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 19:15:58.788: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 19:15:58.788: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 19:15:58.795: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 19:15:58.921: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 19:15:58.966: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#12): (../lib/diameter/common/logger.c:108)
+06/21 19:17:06.437: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 19:17:06.440: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 19:17:06.629: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)
+Open5GS daemon v2.6.4-22-g93bcd7f+
+
+06/21 19:17:53.467: [app] INFO: Configuration: '/home/vagrant/open5gs/install/etc/open5gs/pcrf.yaml' (../lib/app/ogs-init.c:126)
+06/21 19:17:53.467: [app] INFO: File Logging: '/home/vagrant/open5gs/install/var/log/open5gs/pcrf.log' (../lib/app/ogs-init.c:129)
+06/21 19:17:53.469: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/21 19:17:53.588: [app] INFO: PCRF initialize...done (../src/pcrf/app-init.c:31)
+06/21 19:17:53.696: [diam] INFO: CONNECTED TO 'smf.localdomain' (SCTP,soc#11): (../lib/diameter/common/logger.c:108)
+06/21 19:18:45.997: [app] INFO: SIGTERM received (../src/main.c:53)
+06/21 19:18:46.002: [app] INFO: Open5GS daemon terminating... (../src/main.c:226)
+06/21 19:18:46.175: [app] INFO: PCRF terminate...done (../src/pcrf/app-init.c:39)

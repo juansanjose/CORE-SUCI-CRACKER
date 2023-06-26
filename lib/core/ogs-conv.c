@@ -51,6 +51,28 @@ int ogs_ascii_to_hex(char *in, int in_len, void *out, int out_len)
 
     return j;
 }
+int ogs_ascii_const_to_hex(const char *in, int in_len, void *out, int out_len)
+{
+    int i = 0, j = 0, k = 0, hex;
+    uint8_t *out_p = out;
+
+    while(i < in_len && j < out_len) {
+        if (!isspace(in[i])) {
+            hex = isdigit(in[i]) ? in[i] - '0' : 
+                islower(in[i]) ? in[i] - 'a' + 10 : in[i] - 'A' + 10;
+            if ((k & 0x1) == 0) {
+                out_p[j] = (hex << 4);
+            } else {
+                out_p[j] |= hex;
+                j++;
+            }
+            k++;
+        }
+        i++;
+    }
+
+    return j;
+}
 
 void *ogs_hex_to_ascii(void *in, int in_len, void *out, int out_len)
 {
